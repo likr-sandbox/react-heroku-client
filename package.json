@@ -1,0 +1,44 @@
+{
+  "name": "react-heroku-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likr-sandbox/react-heroku-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likr-sandbox/react-heroku-client/issues"
+  },
+  "devDependencies": {
+    "netlify-cli": "^2.69.10",
+    "prettier": "^2.2.1",
+    "react-scripts": "^4.0.1"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^1.2.0",
+    "bulma": "^0.9.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
